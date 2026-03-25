@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Some Nights",
+  "base_artist": "fun.",
+  "createdAt": "2026-03-25T14:53:58.650261Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Some Nights",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/01_Some_Nights_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Some Nights (Extended)",
+      "artist": "SAINt JHN",
+      "has_synced": true,
+      "path": "select/02_Some_Nights_(Extended)_SAINt_JHN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "When Some Nights",
+      "artist": "Don Dokken",
+      "has_synced": false,
+      "path": "select/03_When_Some_Nights_Don_Dokken.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Some Nights",
+      "artist": "fun.",
+      "has_synced": false,
+      "path": "select/04_Some_Nights_fun..txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Some Nights",
+      "artist": "Like Moths to Flames",
+      "has_synced": true,
+      "path": "select/05_Some_Nights_Like_Moths_to_Flames.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Some Nights - Intro",
+      "artist": "fun.",
+      "has_synced": true,
+      "path": "select/06_Some_Nights_-_Intro_fun..lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Some Nights",
+      "artist": "Fun",
+      "has_synced": true,
+      "path": "select/07_Some_Nights_Fun.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Some Nights",
+      "artist": "Fun",
+      "has_synced": false,
+      "path": "select/08_Some_Nights_Fun.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Some Nights",
+      "artist": "fun.",
+      "has_synced": true,
+      "path": "select/09_Some_Nights_fun..lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Some Nights",
+      "artist": "Fun.",
+      "has_synced": true,
+      "path": "select/10_Some_Nights_Fun..lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Some Nights  (Intro)",
+      "artist": "fun.",
+      "has_synced": true,
+      "path": "select/11_Some_Nights_(Intro)_fun..lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "SOME NIGHTS",
+      "artist": "Noah Gundersen",
+      "has_synced": false,
+      "path": "select/12_SOME_NIGHTS_Noah_Gundersen.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Some Nights",
+      "artist": "PK",
+      "has_synced": true,
+      "path": "select/13_Some_Nights_PK.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Some Nights",
+      "artist": "Punk Goes",
+      "has_synced": true,
+      "path": "select/14_Some_Nights_Punk_Goes.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Some Nights",
+      "artist": "fun.",
+      "has_synced": true,
+      "path": "select/15_Some_Nights_fun..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Some Nights",
+      "artist": "fun.",
+      "has_synced": false,
+      "path": "select/pl_01_Some_Nights_fun..txt"
+    }
+  ]
+}
